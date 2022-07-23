@@ -1,0 +1,85 @@
+//lo estoy explicando como para mi sobrino, entiendo que hay datos que no son 100% exactos, pero trato de hacerlo entendible. 
+
+  
+
+Las variables, como dicen su nombre son variables. Es decir, podes asignarle información a algo , dándole valor. Se pueden modificar y los podes ir usando a lo largo del tiempo o proyecto mejor dicho. 
+
+por ejemplo, podemos hacer un juego, que cada vez que yo diga ROJO vos vas a decir "como el tomate como la manzana".  
+
+en este caso, la variable seria ROJO. 
+
+Las strings, son el contenido de la variable misma por decirlo de forma sencilla , como vimos arriba "como el tomate como la manzana" seria tu string en este juego. 
+
+También los booleanos, que es una forma de llamar a algo que es positivo o negativo, verdadero o falso. una manera sencilla de entenderlo seria 
+
+"2 es mas grande que 10? " FALSO . muy bien!  así funcionan los datos booleanos, que pueden ir agarrando mayor complejidad. 
+
+  
+
+Ahora la vamos a complicar un poquito mas, y vamos a agregar las funciones. 
+
+Estas funciones, tienen una estructura y cada vez que las ejecutemos van a hacer "algo". Esto no significa que nos devuelvan algo, pero si que lo hagan. 
+
+  
+
+parte de la estructura de la función , son los argumentos que son variables. 
+
+también dentro de una función podemos encontrar "return" que básicamente nos devuelve algo y también "if"  que es una forma de decir "si"  
+
+  
+
+  
+
+seguramente estas mareado , pero es mas fácil de lo que parece. 
+
+  
+
+te lo explico jugando  
+
+  
+
+tenemos dos CAJONDEMAZANAS (función) y que tenemos de ambos COLORes (argumento) 
+
+Previamente sabemos que rojas (variable) tenemos 30  
+
+y que verdes (variable) tenemos 40. 
+
+  
+
+vos vas a ser el interprete, y yo te voy a dar varias ordenes!  
+
+  
+
+Si (if) el CAJONDEMANZANAS (función) ROJO ( var rojo) es mayor que 35 tenes que gritar (return) VERDADERO  (true). Caso contrario gritar FALSO (return false)  
+
+  
+
+  
+
+  
+
+Todo este juego que hicimos, podríamos escribirlo de la siguiente manera  
+
+  
+
+var rojo = 30 
+
+var verde = 40 
+
+  
+
+function cajon(color) { 
+
+if (color > 10 ) { 
+
+    return true  
+
+} 
+
+    return false  
+
+} 
+
+  
+
+

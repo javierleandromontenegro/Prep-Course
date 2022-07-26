@@ -1,0 +1,51 @@
+hoy te voy a explicar lo que es el bucle for.
+como sabras un bucle es algo que se repite, y esto es basicamente eso.
+El mismo for, tiene una estructura que hay que respetar que es la siguiente, te lo voy a explicar con un ejemplo.
+vos tenes que repetir lo que te voy diciendo a medida que vamos armando la estructura.
+
+for (let i = 0 ; i <10 ; i++)	
+tenemos manzanas (i) 
+partiendo de esta base, vamos a decir que "tenemos 0 manzanas", vos -que jugas a ser el interprete- 
+vas a repetir "tenemos 0 manzanas" 
+ahora, vamos a la siguiente parte de la estructura, y te digo que vas a repetir "tenemos 0 manzanas"
+siempre y cuando las manzanas sean menos que 10.
+
+y aca, te vas a aburrir un poco, porque basicamente vas a repetir "tenemos 0 manzanas" hasta que te quedes dormido.
+pero aca viene la parte interesante, la siguiente parte de la estructura del bucle for.
+en esta ultima parte, vamos a incrementar el valor de las manzanas en 1.
+es decir , ahora vas a decir (aca tenes que usar la cabeza!!! ) "tenemos --0 + 1 -- manzanas" 
+y empezamos de nuevo "tenemos --1+1 - manzanas" 
+
+si recordas lo que te dije antes, vas a repetir esto, HASTA que tengamos 9 manzanas... porque? 
+porque te di una orden, que repitas, hasta que manzanas, sean menos que 10! facil cierto? 
+
+
+ahora vamos a hablar de algo llamado operadores logicos. suena dificil pero es super facil.
+
+no te lo voy a explicar, porque lo vas a entender con ejemplos.
+
+SI el perro ladra Y el  gato maulla , da un salto! 
+saltaste? perfecto. 
+
+Aca en programacion, la palabra "y" la escribimos && y basicamente, sirve para pedirte, si dos expresiones son verdaderas, decime que es verdad -en tu caso, salta-
+
+pero si te digo 
+SI el perro ladra Y&& el  gato ladra , da un salto! 
+saltaste? muy mal! 
+
+porque solo tenes que saltar si todas las expresiones son verdad. PEEERO
+si te digo
+
+SI el perro ladra o el  gato ladra , da un salto! 
+saltaste? perfecto, ahora si! 
+Porque te estoy pidiendo si alguno de los dos es verdad, da un salto! 
+
+y la ultima , es el "!" que significa, basicamente, NO. 
+o , parecido al juego de los opuestos que hacemos a veces.
+
+por ejemplo te digo 2+2 = 4 
+es verdad 
+pero si te digo que 2+2 NO es = a 4 
+es falso.
+
+asi de simple funciona.

@@ -1,0 +1,20 @@
+bueno en esta vez, vamos a aprender lo que es un array , como siempre , jugando un poco. 
+
+tenemos una caja sorpresa (array)
+a su vez, esta caja tiene separaciones en las cuales podemos guardar cosas (strings, booleanos  y todo eso que aprendiste)
+
+tiene sus pequeñas trampas pero una vez que las aprendes, es tan sencillo como suena.
+
+supongamos que esta caja sorpresa tiene 
+"mesa" "silla" "lapiz" "lapicera" "caja sorpresa2" 
+es decir tiene 4 items 
+si yo te pido, "dame caja sorpresa item [] 3"  , que me darias?  la lapicera? bueno error.
+ya que estos items arrancan desde el 0 , esa es toda la trampa que tiene, lo demas es textual te lo digo.
+
+y bueno, ya con varios comandos podes por ejemplo, poner algo en el final, o algo al principio y correr todo lo demas
+y hacer muchas cosas mas, que es leer para que funciona y hacerlo no tiene mas truco.
+
+Pero una ultima explicacion, tambien la caja puede tener otra caja dentro.
+
+"dame la caja sorpresa item 4" , me tendrias que dar la caja. Pero la caja cerrada? no.
+me das todo lo que tiene la caja. 

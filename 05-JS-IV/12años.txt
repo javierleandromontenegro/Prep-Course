@@ -1,0 +1,37 @@
+hoy vamos a hablar de unos temas un poco mas complejos, pero vamos a hacerlo super sencillo para
+que lo entiendas.
+
+lo primero "objetos" , "propiedades" , "metodos" "notacion de puntos y corchetes" 
+
+de ahora en mas, vos vas a transformarte en el "objeto" 
+
+que es un objeto? un contenedor de datos, pero hay un truquito, solo datos sobre vos mismo, es decir
+del mismo objeto en si.
+
+Por ejemplo, yo te pregunto tu edad? 12 perfecto! 
+ Edad : 12 
+
+eso seria "propiedades" un key:value , es decir, una palabra un valor. 
+
+para saber la edad de roberto, tendria que preguntarle al mismo roberto (objeto roberto).
+
+vos, contenes muchas propiedades -o tal vez no, pero vamos a creer que si-.
+esto puede ponerse mas complejo.
+por ejemplo yo te digo "colegio"  , eso mismo es una propiedad... pero a su vez es un otro objeto
+en si mismo, porque? 
+porque colegio tiene muchas propiedades adentro que pueden ser "nombre" y vas a decirme el nombre del colegio
+pero, tambien tiene la propiedad "amigos" que tiene a todos tus amigos dentro, y a su vez, todos tus
+amigos tienen adentro mas propiedades, e incluso puede tener funciones, en este caso son llamadas
+metodos.
+no se si te confundi o lo entendiste, pero creo que vamos bien! 
+
+como todo lenguaje , tiene sus codigos o formas exclusivas de expresarse.
+ 
+que cada uno tiene cierta simpleza o facilidad para determinadas situaciones,
+como tu mismo nombre, que para llamarte en casa te decimos churri, pero los profesores te llaman
+valen. no tiene mucho que ver, pero es similar. 
+
+te acordas cuando te explique los bucles? bueno, en estos objetos tambien hay bucles pero se ejecutan
+de forma distinta, por ejemplo el bucle "for ... in" 
+sirve para recorrer un objeto, sus propiedades etc.
+
